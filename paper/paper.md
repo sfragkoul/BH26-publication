@@ -1,5 +1,5 @@
 ---
-title: 'BioHackEU23 report: Template for the very long title'
+title: 'BioHackEU26 report: Template for the very long title'
 title_short: 'BioHackEU23 #26: unknown chemical substances'
 tags:
   - cheminformatics
@@ -19,13 +19,13 @@ affiliations:
   - name: ELIXIR Europe
     ror: 044rwnt51
     index: 2
-date: 8 November 2023
+date: 13 November 2026
 cito-bibliography: paper.bib
-event: BH23EU
-biohackathon_name: "BioHackathon Europe 2023"
+event: BH26EU
+biohackathon_name: "BioHackathon Europe 2026"
 biohackathon_url:   "https://biohackathon-europe.org/"
-biohackathon_location: "Barcelona, Spain, 2023"
-group: Project 26
+biohackathon_location: "Barcelona, Spain, 2026"
+group: Project 8
 # URL to project git repo --- should contain the actual paper.md:
 git_url: https://github.com/biohackrxiv/publication-template
 # This is the short authors description that is used at the
